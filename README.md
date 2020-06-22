@@ -1,2 +1,4 @@
 # invie
-Tus mejores guitarras Invie-sibles by @me
+Las guitarras más locas
+
+https://noklo.github.io/invie/
